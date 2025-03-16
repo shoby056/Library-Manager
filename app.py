@@ -51,7 +51,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.title("📚 Library Management")
+st.title("📚 Library Management System")
 
 # Sidebar Menu
 menu = st.sidebar.radio("Menu", ["View Books", "Add Book", "Delete Book", "Edit Book", "Search Book"])
