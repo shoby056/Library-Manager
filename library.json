@@ -1,0 +1,185 @@
+[
+    {
+        "title": "Software Engineering (9th Edition)",
+        "author": "Ian Sommerville",
+        "Year": 2009,
+        "link": "https://engineering.futureuniversity.com/BOOKS%20FOR%20IT/Software-Engineering-9th-Edition-by-Ian-Sommerville.pdf",
+        "category": "Software Engineering",
+        "publish_year": 2009
+    },
+    {
+        "title": "Software Engineering: A Practitioner's Approach",
+        "author": "Roger S. Pressman",
+        "Year": 2005,
+        "link": "https://elearn.daffodilvarsity.edu.bd/pluginfile.php/799120/mod_book/intro/Software_Engineering-Roger_S_Pressman.pdf",
+        "category": "Software Engineering",
+        "publish_year": 2005
+    },
+    {
+        "title": "Software Engineering (10th Edition)",
+        "author": "Ian Sommerville",
+        "Year": 2015,
+        "link": "https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%20-%20Ian%20Sommerville.pdf",
+        "category": "Software Engineering",
+        "publish_year": 2015
+    },
+    {
+        "title": "Concepts of Programming Languages (10th Edition)",
+        "author": "Robert W. Sebesta",
+        "Year": 2012,
+        "link": "https://www.ime.usp.br/~alvaroma/ucsp/proglang/book.pdf",
+        "category": "Software Engineering",
+        "publish_year": 2012
+    },
+    {
+        "title": "Competitive Programmer's Handbook",
+        "author": "Antti Laaksonen",
+        "Year": 2017,
+        "link": "https://cses.fi/book/book.pdf",
+        "category": "Software Engineering",
+        "publish_year": 2017
+    },
+    {
+        "title": "Tafsir Ibn Kathir",
+        "author": "Ismail ibn Umar ibn Kathir",
+        "Year": 1000,
+        "link": "https://archive.org/details/TafsirIbnKathirVolume0110English_201702/page/n27/mode/2up?utm_source=chatgpt.com",
+        "category": "Islamiat",
+        "publish_year": 1400
+    },
+    {
+        "title": "Sahih al-Bukhari",
+        "author": "Muhammad ibn Ismail al-Bukhari",
+        "Year": 1000,
+        "link": "https://d1.islamhouse.com/data/en/ih_books/single/en_Sahih_Al-Bukhari.pdf?utm_source=chatgpt.com",
+        "category": "Islamiat",
+        "publish_year": 1000
+    },
+    {
+        "title": "Riyad-us-Saliheen",
+        "author": "Imam Nawawi",
+        "Year": 1000,
+        "link": "https://archive.org/details/Riyad-Us-Saliheen-InEnglish-eBook-PDF?utm_source=chatgpt.com",
+        "category": "Islamiat",
+        "publish_year": 1300
+    },
+    {
+        "title": "Fazail-e-Amal (Virtues of Deeds)",
+        "author": "Maulana Muhammad Zakariyya Kandhlawi",
+        "link": "https://thequranblog.wordpress.com/wp-content/uploads/2010/05/fazail-e-amal-virtues-of-deeds.pdf?utm_source=chatgpt.com",
+        "category": "Islamiat",
+        "publish_year": 2000
+    },
+    {
+        "title": "Al-Adab Al-Mufrad",
+        "author": "Imam al-Bukhar",
+        "link": "https://ia801307.us.archive.org/15/items/al-adab-al-mufrad-english/al-adab-al-mufrad-english.pdf",
+        "category": "Islamiat",
+        "publish_year": 1000
+    },
+    {
+        "title": "English Grammar in Use (Fifth Edition)",
+        "author": "Raymond Murphy",
+        "link": "https://englishfrench.academy/wp-content/uploads/2020/09/235_7-English-Grammar-in-Use.-Murphy-R.-2019-5th-394p-.pdf",
+        "category": "Grammar",
+        "publish_year": 2019
+    },
+    {
+        "title": "Perfect English Grammar",
+        "author": "Grant Barrett",
+        "link": "https://lib.pardistalk.ir/library/Perfect-English-Grammar.pdf",
+        "category": "Grammar",
+        "publish_year": 2016
+    },
+    {
+        "title": "English for Everyone: English Grammar Guide Practice Book",
+        "author": "DK",
+        "link": "https://dl.tutoo.ir/upload/Book/Complete/English%20for%20Everyone/English%20for%20Everyone.%20Grammar%20Guide.%20Practice%20Book.pdf",
+        "category": "Grammar",
+        "publish_year": 2019
+    },
+    {
+        "title": "High School English Grammar and Composition",
+        "author": "P.C. Wren and H. Martin",
+        "link": "https://www.cag.edu.tr/uploads/site/lecturer-files/the-languagelab-library-high-school-english-grammar-and-composition-wren-and-martin-ZmlD.pdf",
+        "category": "Grammar",
+        "publish_year": 1973
+    },
+    {
+        "title": "Complete English Grammar Rules",
+        "author": "Farlex International",
+        "link": "https://www.cur.ac.rw/mis/main/library/documents/book_file/digital-65ae24fecf49b7.61315711.pdf",
+        "category": "Grammar",
+        "publish_year": 2021
+    },
+    {
+        "title": "Competitive Programmer's Handbook",
+        "author": "Antti Laaksonen",
+        "link": "https://cses.fi/book/book.pdf",
+        "category": "Coding",
+        "publish_year": 2018
+    },
+    {
+        "title": "Deep R Programming",
+        "author": "Marek Gagolewski",
+        "link": "https://arxiv.org/pdf/2301.01188",
+        "category": "Coding",
+        "publish_year": 2022
+    },
+    {
+        "title": "Concepts of Programming Languages",
+        "author": "Robert W. Sebesta",
+        "link": "https://chatgpt.com/c/67d69b34-bd00-800c-9138-77419f116f94",
+        "category": "Coding",
+        "publish_year": 2012
+    },
+    {
+        "title": "You Don't Know JS (book series)",
+        "author": " Kyle Simpson",
+        "link": "https://github.com/getify/You-Dont-Know-JS",
+        "category": "Coding",
+        "publish_year": 2014
+    },
+    {
+        "title": "Elements of Programming Interviews in Python: The Insiders' Guide",
+        "author": "Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash",
+        "link": "https://elementsofprogramminginterviews.com/",
+        "category": "Coding",
+        "publish_year": 2016
+    },
+    {
+        "title": "Poems on Love and Life",
+        "author": "Frederick Douglas Harper",
+        "link": "https://duraboneprophecies.com/assets/Poems%20on%20Love%20and%20Life.pdf?utm_source=chatgpt.com",
+        "category": "Poetry",
+        "publish_year": 1985
+    },
+    {
+        "title": "Deewan-e-Ghalib",
+        "author": "Mirza Ghalib",
+        "link": "https://urduvirsa.blogspot.com/2013/02/50-urdu-poetry-books.html?utm_source=chatgpt.com",
+        "category": "Poetry",
+        "publish_year": 1863
+    },
+    {
+        "title": "Kulliyat-e-Akbar Allahabadi",
+        "author": "Akbar Allahabadi",
+        "link": "https://archive.org/details/UrduPoetry1/AankhainBheegJatiHain/page/n7/mode/2up",
+        "category": "Poetry",
+        "publish_year": 2000
+    },
+    {
+        "title": "Diwan e Galib",
+        "author": "Mirza Galib",
+        "link": "https://www.rekhta.org/ebooks/diwan-e-ghalib-mirza-ghalib-ebooks",
+        "category": "Poetry",
+        "publish_year": 2000
+    },
+    {
+        "title": "My Little Book of Poems",
+        "author": "Deniz Kurtoglu Eken",
+        "link": "https://myweb.sabanciuniv.edu/kurtoglueken/files/2017/06/MyLittleBookofPoems_webspread.pdf",
+        "category": "Poetry",
+        "publish_year": 2017
+    }
+]
