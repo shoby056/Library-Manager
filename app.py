@@ -32,7 +32,7 @@ st.markdown(
         background-color: #f8f9fa;
     }
     .book {
-        background: linear-gradient(135deg, #ff7eb3, #ff758c);
+        background: #1e90ff;
         padding: 15px;
         border-radius: 8px;
         margin-bottom: 10px;
